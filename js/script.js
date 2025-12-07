@@ -7,7 +7,7 @@ $(document).ready(function() {
 	});
 
 	var typed = new Typed(".typed", {
-		strings: ["Web Developer", "Aircraft Electrician", "Girl Scout Leader", "Avionics Technician", "Veteran", "Missile Systems Repairer"],
+		strings: ["Web Developer", "Aircraft Electrician", "Girl Scout Leader", "UX Designer", "Writer", "Avionics Technician", "Veteran", "Electrical Systems Engineering Student", "Artist", "Repair Station Avionics and Electrical Technician IV", "Missile Systems Repairer"],
 		typeSpeed: 80,
 		loop: true,  
 		startDelay: 1000,
@@ -109,3 +109,4 @@ $(document).ready(function() {
 
 
 });
+
